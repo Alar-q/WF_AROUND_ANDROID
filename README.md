@@ -1,2 +1,2 @@
 # WF_AROUND_ANDROID
-all wifi points around
+all wifi points around using WifiManager
